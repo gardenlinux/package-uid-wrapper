@@ -1,0 +1,1 @@
+git_src --branch debian/1.3.0-4 https://salsa.debian.org/sssd-team/uid-wrapper.git
